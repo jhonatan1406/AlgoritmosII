@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1679664589 source:c:\hash-main\tp03a2\compartimento_hash.c
+	<string.h>
+	<stdlib.h>
+	<stdarg.h>
+	"compartimento_hash.h"
+
+1679664589 c:\hash-main\tp03a2\compartimento_hash.h
+	<stdio.h>
+
+1679664589 source:c:\hash-main\tp03a2\lista_compartimentos.c
+	<stdlib.h>
+	<stdarg.h>
+	<assert.h>
+	"lista_compartimentos.h"
+	"compartimento_hash.h"
+
+1679664589 c:\hash-main\tp03a2\lista_compartimentos.h
+	"compartimento_hash.h"
+
+1679664589 source:c:\hash-main\tp03a2\cliente.c
+	<string.h>
+	<stdlib.h>
+	"cliente.h"
+
+1679664589 c:\hash-main\tp03a2\cliente.h
+	<stdio.h>
+
+1679664956 source:c:\hash-main\tp03a2\encadeamento_exterior.c
+	<limits.h>
+	<string.h>
+	<errno.h>
+	"encadeamento_exterior.h"
+	"lista_compartimentos.h"
+	"lista_clientes.h"
+	<assert.h>
+	<stdlib.h>
+
+1679664956 c:\hash-main\tp03a2\encadeamento_exterior.h
+
+1679664589 c:\hash-main\tp03a2\lista_clientes.h
+	"cliente.h"
+
+1679664589 source:c:\hash-main\tp03a2\lista_clientes.c
+	<stdlib.h>
+	<stdarg.h>
+	<assert.h>
+	"lista_clientes.h"
+
+1679666166 source:c:\hash-main\tp03a2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	"cliente.h"
+	"compartimento_hash.h"
+	"encadeamento_exterior.h"
+	"lista_clientes.h"
+	"lista_compartimentos.h"
+	<assert.h>
+	<stdlib.h>
+	"func.h"
+
+1679665994 source:c:\hash-main\tp03a2\func.c
+	<stdio.h>
+	<stdlib.h>
+	"func.h"
+
+1679676447 c:\hash-main\tp03a2\func.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

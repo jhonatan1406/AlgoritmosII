@@ -1,0 +1,6 @@
+Funcionário encontrado: 27
+Quantidade de comparações: 5
+Funcionário encontrado: 5
+Quantidade de comparações: 6
+Funcionário encontrado: 5
+Quantidade de comparações: 6

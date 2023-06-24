@@ -1,0 +1,27 @@
+Informações do funcionário:
+Código: 27
+Nome: Funcionario 90
+CPF: CPF 90
+Data de Nascimento: 01/01/1990
+Salário: 5705.740532
+Número de comparações: 5
+Tempo gasto: 80356.000000
+
+Informações do funcionário:
+Código: 5
+Nome: Funcionario 57
+CPF: CPF 57
+Data de Nascimento: 01/01/1957
+Salário: 2718.894009
+Número de comparações: 6
+Tempo gasto: 56872.000000
+
+Informações do funcionário:
+Código: 5
+Nome: Funcionario 57
+CPF: CPF 57
+Data de Nascimento: 01/01/1957
+Salário: 2718.894009
+Número de comparações: 6
+Tempo gasto: 365949.000000
+

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="PROJETO2_AEDS" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/PROJETO2_AEDS" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/PROJETO2_AEDS" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="arvore_b_mais.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="arvore_b_mais.h" />
+		<Unit filename="funcionario.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="funcionario.h" />
+		<Unit filename="lista_func.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lista_func.h" />
+		<Unit filename="lista_nos_folhas.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lista_nos_folhas.h" />
+		<Unit filename="lista_nos_internos.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lista_nos_internos.h" />
+		<Unit filename="metadados.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="metadados.h" />
+		<Unit filename="no_folha.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="no_folha.h" />
+		<Unit filename="no_interno.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="no_interno.h" />
+		<Unit filename="ufftest.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

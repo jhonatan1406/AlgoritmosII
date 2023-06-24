@@ -1,0 +1,108 @@
+# depslib dependency file v1.0
+1679658881 source:c:\aeds2_tp2\tpaeds2_2\projeto2_aeds\arvore_b_mais.c
+	<limits.h>
+	<stdlib.h>
+	<mem.h>
+	"arvore_b_mais.h"
+	"lista_func.h"
+	"metadados.h"
+	"no_folha.h"
+	"lista_nos_internos.h"
+
+1679098183 c:\aeds2_tp2\tpaeds2_2\projeto2_aeds\arvore_b_mais.h
+
+1679089752 c:\aeds2_tp2\tpaeds2_2\projeto2_aeds\lista_pizzas.h
+	"pizza.h"
+
+1679089970 c:\aeds2_tp2\tpaeds2_2\projeto2_aeds\pizza.h
+	<stdio.h>
+
+1679089811 c:\aeds2_tp2\tpaeds2_2\projeto2_aeds\metadados.h
+	<stdio.h>
+
+1679092311 c:\aeds2_tp2\tpaeds2_2\projeto2_aeds\no_folha.h
+	<stdio.h>
+	"funcionario.h"
+
+1679089694 c:\aeds2_tp2\tpaeds2_2\projeto2_aeds\lista_nos_internos.h
+	"no_interno.h"
+
+1679089916 c:\aeds2_tp2\tpaeds2_2\projeto2_aeds\no_interno.h
+	<stdio.h>
+
+1679089546 source:c:\aeds2_tp2\tpaeds2_2\projeto2_aeds\lista_nos_folhas.c
+	<stdlib.h>
+	<stdarg.h>
+	"lista_nos_folhas.h"
+
+1679089579 c:\aeds2_tp2\tpaeds2_2\projeto2_aeds\lista_nos_folhas.h
+	"no_folha.h"
+
+1679089670 source:c:\aeds2_tp2\tpaeds2_2\projeto2_aeds\lista_nos_internos.c
+	<stdlib.h>
+	<stdarg.h>
+	"lista_nos_internos.h"
+
+1679089731 source:c:\aeds2_tp2\tpaeds2_2\projeto2_aeds\lista_pizzas.c
+	<stdlib.h>
+	<stdarg.h>
+	"lista_pizzas.h"
+
+1679089788 source:c:\aeds2_tp2\tpaeds2_2\projeto2_aeds\metadados.c
+	<string.h>
+	<stdlib.h>
+	"metadados.h"
+	"no_folha.h"
+
+1679093287 source:c:\aeds2_tp2\tpaeds2_2\projeto2_aeds\no_folha.c
+	<string.h>
+	<stdlib.h>
+	<stdarg.h>
+	"no_folha.h"
+
+1679089895 source:c:\aeds2_tp2\tpaeds2_2\projeto2_aeds\no_interno.c
+	<string.h>
+	<stdlib.h>
+	<stdarg.h>
+	"no_interno.h"
+
+1679089947 source:c:\aeds2_tp2\tpaeds2_2\projeto2_aeds\pizza.c
+	<string.h>
+	<stdlib.h>
+	"pizza.h"
+
+1679090050 source:c:\aeds2_tp2\tpaeds2_2\projeto2_aeds\test_arvore_b_mais.c
+	<limits.h>
+	<stdlib.h>
+	"ufftest.h"
+	"pizza.h"
+	"no_interno.h"
+	"no_folha.h"
+	"lista_pizzas.h"
+	"lista_nos_internos.h"
+	"lista_nos_folhas.h"
+	"metadados.h"
+	"arvore_b_mais.h"
+
+1679090081 c:\aeds2_tp2\tpaeds2_2\projeto2_aeds\ufftest.h
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1679091189 c:\aeds2_tp2\tpaeds2_2\projeto2_aeds\funcionario.h
+	<stdio.h>
+
+1679091992 source:c:\aeds2_tp2\tpaeds2_2\projeto2_aeds\lista_func.c
+	<stdlib.h>
+	<stdarg.h>
+	"lista_func.h"
+
+1679091501 c:\aeds2_tp2\tpaeds2_2\projeto2_aeds\lista_func.h
+	"funcionario.h"
+
+1679098183 source:c:\aeds2_tp2\tpaeds2_2\projeto2_aeds\funcionario.c
+	<string.h>
+	<stdlib.h>
+	"funcionario.h"
+

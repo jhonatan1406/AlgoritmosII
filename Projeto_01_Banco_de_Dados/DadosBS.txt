@@ -1,0 +1,9 @@
+Informações do funcionário:
+Código: 27
+Nome: Funcionario 90
+CPF: CPF 90
+Data de Nascimento: 01/01/1990
+Salário: 5705.740532
+Número de comparações: 89
+Tempo gasto: 0.000000
+

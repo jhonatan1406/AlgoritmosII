@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1677858793 source:c:\projetoteste\projeto_aeds2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	"funcionario.h"
+	"nomes.h"
+	"geracao_particoes.h"
+	"classificao_externa.h"
+
+1677854859 c:\projetoteste\projeto_aeds2\funcionario.h
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+
+1677863961 source:c:\projetoteste\projeto_aeds2\funcionario.c
+	"funcionario.h"
+	<string.h>
+	<stdlib.h>
+	<stdarg.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1677684347 source:c:\projetoteste\projeto_aeds2\nomes.c
+	"nomes.h"
+
+1677685116 c:\projetoteste\projeto_aeds2\nomes.h
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+
+1677821168 source:c:\projetoteste\projeto_aeds2\geracao_particoes.c
+	"geracao_particoes.h"
+	<string.h>
+	<stdlib.h>
+	<stdarg.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1677821349 c:\projetoteste\projeto_aeds2\geracao_particoes.h
+	"nomes.h"
+	"funcionario.h"
+	"stdbool.h"
+	"string.h"
+
+1677854888 c:\projetoteste\projeto_aeds2\classificao_externa.h
+	<stdio.h>
+	<stdlib.h>
+
+1677858793 source:c:\projetoteste\projeto_aeds2\classificao_externa.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"classificao_externa.h"
+
